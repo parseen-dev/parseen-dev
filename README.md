@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! I'm David Parseen 🚀</h1>
-<h3 align="center">Experienced Senior Software Engineer from Kenya 🇰🇪</h3>
+<h3 align="center">Software Engineer from Kenya 🇰🇪</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=parseen254&label=Profile%20Views&color=0e75b6&style=flat" alt="parseen254 Profile Views" />
