@@ -14,8 +14,8 @@
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=parseen254&show_icons=true&locale=en&show_icons=true&theme=transparent&langs_count=10&hide=lua,nix,makefile&layout=compact&hide_progress=true"
-    alt="David Parseen's Top Languages" />
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=parseen254&show_icons=true&locale=en&show_icons=true&theme=transparent&langs_count=5&layout=compact&hide_progress=true"
+    alt="Top 5 Languages used ( Based on Github Repositories )" />
 </p>
 
 <p align="left"> 
