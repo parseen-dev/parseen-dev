@@ -6,10 +6,3 @@
     alt="Top 5 Languages used ( Based on Github Repositories )" />
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/parseen254" target="blank">
-    <img src="https://img.shields.io/twitter/follow/parseen254?logo=twitter&style=for-the-badge" alt="Follow @parseen254 on Twitter" />
-  </a>
-</p>
-
-
