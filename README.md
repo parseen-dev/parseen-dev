@@ -1,8 +1,9 @@
 <div align="center">
 
-### Greetings! I'm David Parseen 🚀
+### Hi! I'm David Parseen 🚀
 
 #### Software Engineer from Kenya 🇰🇪
+## [https://parseen.dev](https://parseen.dev)
 
 <hr width="80%"/>
 
