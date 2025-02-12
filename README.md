@@ -3,7 +3,7 @@
 ### Hi! I'm David Parseen 🚀
 
 #### Software Engineer from Kenya 🇰🇪
-## [https://parseen.dev](https://parseen.dev)
+## [https://www.parseen.dev](https://www.parseen.dev)
 
 <hr width="80%"/>
 
